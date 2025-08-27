@@ -1,5 +1,9 @@
 # Alura Books - _Abordagem Mobile-First_
 
+![Alura Books](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
+
+## Descrição
+
 Alura Books é um site fictício de uma editora da Alura desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O projeto segue a abordagem **mobile-first**, garantindo responsividade e uma boa experiência em dispositivos móveis, _tablets_ e _desktops_.
 
 Projeto desenvolvido como exercício de front-end, aplicando conceitos de HTML, CSS e JavaScript, com foco em responsividade e usabilidade.
