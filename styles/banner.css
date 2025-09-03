@@ -35,4 +35,16 @@
     font-size: 14px;
     font-weight: 400;
     color: var(--branco);
+    text-align: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .banner__titulo {
+        font-size: 36px;
+    }
+
+    .banner__pesquisa {
+        width: 50%;
+        background-position: 8em;
+    }
 }
